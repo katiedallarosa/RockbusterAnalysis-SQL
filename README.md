@@ -14,8 +14,8 @@ This project takes on the assumptions that I've been hired by Rockbuster Stealth
 The dataset was created by CareerFoundry for use in this analysis. The data set includes information on stores, staff, inventory, film categories, film names, film language, actors, customers, rental history, payment history, and addresses for stores, staff, and customers.
 - [Rockbuster Data Set](https://github.com/katiedallarosa/RockbusterAnalysis-SQL/blob/main/Rockbuster.Excel.Data.xls)
 ## Tools
-- PostgreSQL
-- Tableau: Check out the Tableau Public dashboard for interactive insights.  
+- **PostgreSQL**
+- **Tableau**: Check out the Tableau Public dashboard for interactive insights.  
 ## Project Deliverables
 The project culminates in a comprehensive analysis, backed by SQL queries, visualizations, and a narrative that translates complex data into actionable business insights.
 Find the detailed report in the [Final Project Presentation](https://github.com/katiedallarosa/RockbusterAnalysis-SQL/blob/main/Rockbuster%20Stealth%20Data%20Analysis_KDallaRosa.pdf).
