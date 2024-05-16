@@ -15,7 +15,7 @@ The dataset was created by CareerFoundry for use in this analysis. The data set 
 - [Rockbuster Data Set](https://github.com/katiedallarosa/RockbusterAnalysis-SQL/blob/main/Rockbuster.Excel.Data.xls)
 ## Tools
 - **PostgreSQL**
-- **Tableau**: Check out the Tableau Public dashboard for interactive insights.  
+- **Tableau**: Check out my [Tableau Public dashboard](https://public.tableau.com/app/profile/katie.dallarosa/vizzes) for interactive insights.  
 ## Project Deliverables
 The project culminates in a comprehensive analysis, backed by SQL queries, visualizations, and a narrative that translates complex data into actionable business insights.
 Find the detailed report in the [Final Project Presentation](https://github.com/katiedallarosa/RockbusterAnalysis-SQL/blob/main/Rockbuster%20Stealth%20Data%20Analysis_KDallaRosa.pdf).
